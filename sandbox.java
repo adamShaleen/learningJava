@@ -1,3 +1,16 @@
+//-----------------Codewars Find the odd int------------------------------------------
+// first time using XOR operator
+
+// public class FindOdd {
+//   public static int findIt(int[] arr) {
+//      int x=0;
+//      for(int i=0;i<arr.length;i++)
+//        x=x^arr[i];
+//      return x;
+//   }
+// }
+
+
 //------------------Codewars 'Find the stray number'-----------------------------------
 
 // import java.util.Arrays;
